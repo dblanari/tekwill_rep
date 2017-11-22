@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.tekwill.newapp</groupId>
+  <artifactId>newapp</artifactId>
+  <versioning>
+    <versions>
+      <version>1.0-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20171122092324</lastUpdated>
+  </versioning>
+</metadata>
